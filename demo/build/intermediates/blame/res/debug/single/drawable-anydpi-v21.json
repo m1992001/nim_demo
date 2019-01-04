@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\android\\workpace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\bb7c1a3838cb7b7f21b3b79ea0770c07\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "D:\\android\\workpace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\leak_canary_icon_foreground.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\leakcanary-android-1.6.1.aar\\38c7ca4fc686a8f51f379176ac33d239\\res\\drawable-anydpi-v21\\leak_canary_icon_foreground.xml"
+    },
+    {
+        "merged": "D:\\android\\workpace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\bb7c1a3838cb7b7f21b3b79ea0770c07\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    }
+]

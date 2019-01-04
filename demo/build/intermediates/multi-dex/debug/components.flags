@@ -1,0 +1,105 @@
+-injars 'D:\android\workpace\nim_demo\demo\libs\nim-push-5.9.0.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\firebase-core-11.6.0.aar\3d4830cd8a77e2521eb466d5d7180894\jars\classes.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-support-fragment-1.6.1.aar\8c1e5f7b327cfa83462bfd707900346f\jars\classes.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.6.1.aar\38c7ca4fc686a8f51f379176ac33d239\jars\classes.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\11990ce6bf740d410e478f607f3082bc\jars\classes.jar'(**.class)
+-injars 'D:\android\workpace\nim_demo\uikit\libs\fastjson-1.1.34.android.jar'(**.class)
+-injars 'D:\android\workpace\nim_demo\uikit\libs\java-json.jar'(**.class)
+-injars 'D:\android\workpace\nim_demo\uikit\libs\nim-basesdk-5.9.0.jar'(**.class)
+-injars 'D:\android\workpace\nim_demo\uikit\libs\nim-chatroom-5.9.0.jar'(**.class)
+-injars 'D:\android\workpace\nim_demo\uikit\libs\nim-lucene-5.9.0.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.6.0.aar\d48e5e24828cf33c8b9363b287d2f876\jars\classes.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\bf362b95c0e37d634ac78c1a46ab8ed2\jars\classes.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jsbridge-1.3.1.aar\b97054bd2491a3ebc2554544800fc065\jars\classes.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\extensions-1.1.0.aar\db201a47ece83e3becf432ab542c582b\jars\classes.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common-java8\1.1.0\38a98f7e060beb4ac1c3b2caf5e7c7a3b2225f5a\common-java8-1.1.0.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\36358f84fe6a6ed584fe2831fb0c1fba\jars\classes.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-analyzer-1.6.1.aar\8ab748b217adc862c3f83f789da0a57e\jars\classes.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\bb7c1a3838cb7b7f21b3b79ea0770c07\jars\classes.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\c7e18a96909e6376ed1ea96aec0de801\jars\classes.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.0.aar\7928ada1cab8fdca18c0f6a9bfffb8dc\jars\classes.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\805eb658bf06cd3eaea4d872962895c8\jars\classes.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\firebase-common-11.6.0.aar\287124649dc155dfecb2311d84aba063\jars\classes.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.0.aar\3d777cec5c4658758f0a852510c0383e\jars\classes.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\16d9a974b206ba5fa4b235d43579f100\jars\classes.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\903cd57ac12c848d8d8cc2477be3a811\jars\classes.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\70be2d9def340d1ca77608bb9e0449f5\jars\classes.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\26c3b9a841a51f276cced8665655c6af\jars\classes.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\c45212ea0e96caa82373fc8bdf16f850\jars\classes.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\9124e7f7947274efbf4fcd0d739b8d4a\jars\classes.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\overscroll-decor-android-1.0.4.aar\daaf0a5623051b41f37f00343c6a1573\jars\classes.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.17.aar\dec2187109aac10ef95f8d42d0b538e4\jars\classes.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\glide-transformations-3.0.1.aar\dcc7db103cd260e04471ba06f48d7354\jars\classes.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\4.2.0\b76d4269b06b8bda96aac32342a05843b4c0be41\glide-4.2.0.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\firebase-messaging-license-11.6.0.aar\d07902b6c4d2e81c17e66ab89c07bb1f\jars\classes.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.0.aar\ff12102e8a4fab1c3c285d736f95c5d9\jars\classes.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\2595b88cfdedd5418d533b38e8a050d1\jars\classes.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\6b86174c63d105fc94bb54bceb4331a8\jars\classes.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\a82a967407ed160f5f6c36c6825110b8\jars\classes.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\f9711b389046742bfbca18224238700b\jars\classes.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\12dbfec905061b2649e3cf1bb18d02e2\jars\classes.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\9caf96ca98af650e1fdae08e7fae71e2\jars\classes.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\25f3569264960f77de6b5cb02d3f2702\jars\classes.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-1.1.0.aar\40fe847133417e8921af47afb5613224\jars\classes.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\c9d90b65129f42f84261b0ed2fc9ff75\jars\classes.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3df2f54db45e98fa8cc1031a7186c6d1\jars\classes.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.1.0\8007981f7d7540d89cd18471b8e5dcd2b4f99167\common-1.1.0.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.1.0\edf3f7bfb84a7521d0599efa3b0113a0ee90f85\common-1.1.0.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\331631ce79b987d9b7e4224d28675afb\jars\classes.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\gifdecoder\4.2.0\f196283dab426e09559bfe7385f162b2b254cf72\gifdecoder-4.2.0.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.6.0.aar\7b22ab5e6831ac9e2c5f10e5a90ac048\jars\classes.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.leakcanary\leakcanary-watcher\1.6.1\525aa64b206d926d83bfad3c1d3f773e4123a320\leakcanary-watcher-1.6.1.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.haha\haha\2.0.4\4dbe9405e87aa52687c692740253c0ef93dbad9b\haha-2.0.4.jar'(**.class)
+-injars 'D:\android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\disklrucache\4.2.0\fd3a444cc7987b5fa2a60fabb116395ca2a4da1c\disklrucache-4.2.0.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\annotations\4.2.0\1d6fc29f2af61d8fdc31018416040c560423c4b3\annotations-4.2.0.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.6.0.aar\ec1a89e5a4b246251c72ae496a7e3258\jars\classes.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.0.aar\f8637ec51ab5a998f8804fe4a5238c30\jars\classes.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.6.0.aar\b4c82a7f6afb93317ccc530c4a358098\jars\classes.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.0.aar\ed83f9583d24a04d09107b65f288848e\jars\classes.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.6.0.aar\2d139e8e8dce17947f8bc84b332685e1\jars\classes.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.jetbrains.trove4j\trove4j\20160824\33c3e174a9c8368d93761d3d12712db18e903959\trove4j-20160824.jar'(**.class)
+-injars 'D:\android\workpace\nim_demo\uikit\build\intermediates\intermediate-jars\debug\classes.jar'(**.class)
+-injars 'D:\android\workpace\nim_demo\demo\build\intermediates\classes\debug'(**.class)
+-outjars 'D:\android\workpace\nim_demo\demo\build\intermediates\multi-dex\debug\componentClasses.jar'
+
+-libraryjars 'D:\android\sdk\build-tools\26.0.2\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **
+-dontwarn **
+-printconfiguration 'D:\android\workpace\nim_demo\demo\build\intermediates\multi-dex\debug\components.flags'
+
+
+# view AndroidManifest.xml #generated:102
+-keep class com.netease.nim.demo.NimApplication {
+    <init>(...);
+}
+
+-keep public class * extends android.app.Instrumentation {
+    <init>();
+}
+
+-keep public class * extends android.app.Application {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.ir.** {
+    <fields>;
+    <methods>;
+}
